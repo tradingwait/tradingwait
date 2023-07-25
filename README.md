@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tradingwait
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Aaron Goodwin
+- 👀 I’m interested in a role as a Cybersecurity Analyst 
+- 🌱 I’m currently studying Google's Cybersecurity certificate through Cousera 
+- 💞️ I’m looking to collaborate on any assignment that will lend well to my strengths and improve my weak points to more appropriately add value to the cybersecurity community.
+- 📫 How to reach me via email at goodwinaaronj@gmail.com or via phone at 718-757-9788
 
 <!---
 tradingwait/tradingwait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
